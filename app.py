@@ -1,5 +1,5 @@
 # Variables and basic math
-x = 10
+x = 100
 y = 5
 total = x - y
 
