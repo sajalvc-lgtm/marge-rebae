@@ -1,7 +1,7 @@
 # Variables and basic math
 
 x = 5
-y = 5
+y = 50
 total = x - y
 #testing the code
 # Control flow (If/Else)
