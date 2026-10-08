@@ -1,5 +1,5 @@
 # Variables and basic math
-x = 10
+x = 50
 y = 5
 total = x - y
 #testing the code
