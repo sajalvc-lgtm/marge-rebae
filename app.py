@@ -1,7 +1,8 @@
 # Variables and basic math
 
-x = 5
-y = 50
+x = 500
+y = 5
+z= x + y
 total = x - y
 #testing the code
 # Control flow (If/Else)
